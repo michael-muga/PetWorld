@@ -1,0 +1,35 @@
+*{
+    background-color: rgb(175, 175, 160);
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+#firsth1 h1{
+    position: relative;
+    right: 350%;
+    margin-top: 2%;
+
+}
+.section1{
+    display: flex;
+    justify-content: space-between;
+}
+.section1 p{
+    color: white;
+    position: relative;
+    right: 20%;
+    text-align: center;
+    font-size: xx-large;
+}
+.section2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+}
+.section2 img{
+    position: relative;
+    right: 15%;
+    margin-top: 0%;
+    border-radius: 50%;
+}
